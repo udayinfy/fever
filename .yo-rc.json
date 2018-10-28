@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.uday.hr",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "monolith",
+    "baseName": "evhr",
+    "packageName": "com.uday.hr",
+    "packageFolder": "com/uday/hr",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "N2RjMzFiNDIxNmMwNzdiODZjNzQ0NDViZGE5NTQxNjk2NmFlNGEwNTgyZmM3ZTI0NWM4YWMyYmNhMzkzNDU3MTk5MzBmMjVlOWI1MTVkNjY2YjU1MDg5MDg5YmNiNTU0MTRjNTU3NDA3MWI3ZGM3NmJmZTkxNTZmODU4NzUzYWQ=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "fr",
+      "hi"
+    ]
+  }
+}
