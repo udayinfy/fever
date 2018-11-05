@@ -43,9 +43,9 @@ spring:
         serialization.indent_output: true
     datasource:
         type: com.zaxxer.hikari.HikariDataSource
-        url: jdbc:mysql://localhost:3306/evhr?useUnicode=true&characterEncoding=utf8&useSSL=false
+        url: jdbc:mysql://localhost:3306/fever?allowPublicKeyRetrieval=true&useUnicode=true&characterEncoding=utf8&useSSL=false
         username: root
-        password:
+        password: welcome1
         hikari:
             auto-commit: false
             data-source-properties:

@@ -17,14 +17,14 @@
             "hystrix": "Hystrix",
             "diskSpace": "डिस्क स्थान",
             "mail": "ईमेल",
-            "db": "Database"
+            "db": "‎डाटाबेस"
         },
         "table": {
             "service": "सेवा का नाम",
             "status": "स्थिति"
         },
         "status": {
-            "UNKNOWN": "UNKNOWN",
+            "UNKNOWN": "अनजान",
             "UP": "ऊपर",
             "DOWN": "नीचे"
         }

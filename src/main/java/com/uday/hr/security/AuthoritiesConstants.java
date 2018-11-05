@@ -4,6 +4,8 @@ package com.uday.hr.security;
  * Constants for Spring Security authorities.
  */
 public final class AuthoritiesConstants {
+	
+	public static final String SUPERADMIN = "ROLE_SUPER_ADMIN";
 
     public static final String ADMIN = "ROLE_ADMIN";
 
